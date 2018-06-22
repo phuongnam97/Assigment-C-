@@ -1,0 +1,7 @@
+Transaction history.Transaction ID                                     Type       Created date              From                           To                             Content         Amount         
+48e9a76e-08b1-411b-b4f6-995e4b102323               Deposit    6/20/2018 9:24:21 AM                                                                    g?i 100000      100000         
+6dd1567f-e741-43b7-ba45-1a6b3c2a5d4e               Transfer   6/19/2018 12:00:00 AM     You                            Moc                            cho 10k         10000          
+009d6b92-8f24-43e0-8741-f53f5d9ce047               Deposit    6/8/2018 4:12:27 AM                                                                     gui tien        900000         
+a3db8564-6ba6-4b47-9550-15dc99149a73               Deposit    0/0/0000 12:00:00 AM                                                                    g?i 100000      100000         
+fd01d1a2-b722-4833-8eb0-26f6adab165e               Withdraw   0/0/0000 12:00:00 AM                                                                    rut 200         200000         
+
