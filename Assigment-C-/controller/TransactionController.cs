@@ -74,16 +74,15 @@ namespace SpringHeroBank.controller
             Console.Clear();
             string[] startDate = new string[3];
             string[] endDate = new string[3];
-            string startDay = "0";
             Console.WriteLine("please enter date you want to check ");
             
             Console.WriteLine("Start date:");
-            Console.WriteLine("Day(DD): "); //cần validate
-            startDay = Console.ReadLine();
+            Console.WriteLine("Day(DD): ");
+            startDate[2] = Console.ReadLine();
             Console.WriteLine("Month(MM): ");
-            var startMonth = Console.ReadLine();
+            startDate[1] = Console.ReadLine();
             Console.WriteLine("Year(YYYY): ");
-            var startYear = Console.ReadLine();
+            startDate[0] = Console.ReadLine();
 
             Console.WriteLine();
             
